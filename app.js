@@ -1,3 +1,2 @@
-// this is new js --button
-// this is new js --form
+// this is new js -- button
 
